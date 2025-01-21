@@ -23,7 +23,7 @@
 ### Glad to see you here!  
 I’m a mobile application developer who has turned years of freelancing into a full-time career.
 
-I develop cross-platform projects with Flutter & Dart, and native applications with Kotlin (Compose UI) and Swift (Swift UI). In the software company where I am currently working, I am responsible for all stages of development, including coding, testing processes, UI/UX
+I develop cross-platform projects with Flutter & Dart, and Android applications with Kotlin & Jetpack Compose UI. In the software company where I am currently working, I am responsible for all stages of development, including coding, testing processes, UI/UX
 design, and publishing applications to the store. I have the ability to
 quickly adapt to technological innovations and work with strong
 communication skills.  
