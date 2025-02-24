@@ -21,12 +21,20 @@
 
 
 ### Glad to see you here!  
-I’m a mobile application developer who has turned years of freelancing into a full-time career.
+Passionate and results-driven Mobile Developer with expertise in Flutter & Dart for cross-platform development and Kotlin (Jetpack Compose) for Android. Experienced in the full development lifecycle, including coding, testing, UI/UX design, and publishing applications. Focused on building scalable, high-quality applications with modern architectural patterns.
 
-I develop cross-platform projects with Flutter & Dart, and Android applications with Kotlin & Jetpack Compose UI. In the software company where I am currently working, I am responsible for all stages of development, including coding, testing processes, UI/UX
-design, and publishing applications to the store. I have the ability to
-quickly adapt to technological innovations and work with strong
-communication skills.  
+I have experience in the following areas:
+◉ Flutter & Dart
+◉ Kotlin & Jetpack Compose UI
+◉ Node.js
+◉ Clean Architecture (Layer-based / feature-based)
+◉ Design Patterns (MVVM - MVC)
+◉ SQL & NoSQL Databases
+◉ Git version control system
+◉ RESTful web services and APIs
+◉ Data Structures and Algorithms
+◉ State Management (Provider - Riverpod - BLoC)
+◉ Mobile LifeCycle Management  
   
 
 <br/>  
