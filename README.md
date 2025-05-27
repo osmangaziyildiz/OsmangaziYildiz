@@ -21,21 +21,8 @@
 
 
 ### Glad to see you here!  
-Passionate and results-driven Mobile Developer with expertise in Flutter & Dart for cross-platform development and Kotlin (Jetpack Compose) for Android. Experienced in the full development lifecycle, including coding, testing, UI/UX design, and publishing applications. Focused on building scalable, high-quality applications with modern architectural patterns.
-
-I have experience in the following areas:
-- Flutter & Dart
-- Kotlin & Jetpack Compose UI
-- Node.js
-- Clean Architecture (Layer-based / feature-based)
-- Design Patterns (MVVM - MVC)
-- SQL & NoSQL Databases
-- Git version control system
-- RESTful web services and APIs
-- Data Structures and Algorithms
-- State Management (Provider - Riverpod - BLoC)
-- Mobile LifeCycle Management  
-  
+Passionate and results-driven Mobile Developer with expertise in Flutter for cross-platform development and Kotlin / Swift for native development. Worked on 8+ successful mobile projects in different fields. Experienced in the full development lifecycle, including coding, testing, UI/UX design, and publishing applications.
+Currently focused on integrating Artificial Intelligence into mobile applications and actively building a career around AI-powered solutions. Strong interest in NLP, ML, and AI-enhanced user experiences. 
 
 <br/>  
 
