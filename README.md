@@ -99,7 +99,7 @@ Currently focused on integrating Artificial Intelligence into mobile application
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmangaziyildiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Used%20Languages" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmangaziyildiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Used%20Languages" height="50" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=osmangaziyildiz&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="2000" alt="streak graph"  />
 </div>
 
