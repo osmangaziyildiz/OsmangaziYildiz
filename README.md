@@ -108,14 +108,3 @@ Currently focused on integrating Artificial Intelligence into mobile application
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=osmangaziyildiz&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-
-<!--
-**osmangaziyildiz/OsmangaziYildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
