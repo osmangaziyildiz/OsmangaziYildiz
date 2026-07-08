@@ -21,8 +21,9 @@
 
 
 ### Glad to see you here!  
-Passionate and results-driven Mobile Developer with expertise in Flutter for cross-platform development and Kotlin / Swift for native development. Worked on 8+ successful mobile projects in different fields. Experienced in the full development lifecycle, including coding, testing, UI/UX design, and publishing applications.
-Currently focused on integrating Artificial Intelligence into mobile applications and actively building a career around AI-powered solutions. Strong interest in NLP, ML, and AI-enhanced user experiences. 
+Senior Full-Stack Developer primarily focused on Flutter and Node.js, yet highly adaptable to different technologies as needed. Driven by a product-owner vision, managed the end-to-end architecture, scaling, and release processes across more than 10 projects. Provided technical
+consultancy for industry-leading enterprise companies like Türk Telekom. Managed the end-to-end development processes of mobile applications serving over 60,000 active users. Currently works on generative AI integrations via OpenAI & Gemini APIs, subscription/monetization systems with RevenueCat, and attribution integrations with AppsFlyer. Actively builds a career focused on AI-
+based solutions. 
 
 <br/>  
 
